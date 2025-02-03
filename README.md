@@ -1,30 +1,24 @@
-## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" height="40" />
-I'm a Software developer from India :india:. 
-Currently working as a Software developer at Meditab Inc. 
+# Ujesh Nada - Self taught Software Developer
+
+Worked as the Fullstack developer over 5 years, Now learning LLM & Agent workflow to build Gen AI solutions.
+
+## About Me
+
+- **Profession**: Software Developer at **Google**
+- **Experience**: 5+ years in the software development field
+- **Specialization**: Full-stack development, with a keen interest in AI and Agent workflow
+- **Learning Focus**: Currently diving deep into AI technologies and their practical applications
+
+
+Feel free to explore my repositories, where you'll find a variety of personal projects, code snippets, and learning resources.
+
+## Let's Connect!
+
+I'm always open to discussing new technologies, AI advancements, and exciting opportunities. Feel free to reach out!
+
+- **LinkedIn**: [Ujesh Nada](https://www.linkedin.com/in/ujeshnada)
+- **Email**: ujeshnada96@gmail.com
 
 ---
-### Tech stack
-* **Language** : Python, java, Javascript
-* **Frameworks** : Django, Fastapi, Cherrypy
-* **Database** : Mysql, CauchDB
 
-This is done for today, more will be added soon :checkered_flag:
-
-
-
-
-
-<!--
-**ujass/ujass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by!
